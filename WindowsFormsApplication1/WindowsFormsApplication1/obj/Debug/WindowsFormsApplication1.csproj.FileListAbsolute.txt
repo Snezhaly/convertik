@@ -1,0 +1,42 @@
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPresent.resources
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPast.resources
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFuture.resources
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormTest.resources
+D:\_КВОРК\C#\C# - обучение английский (dushka_)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLit.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFuture.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLit.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPast.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPresent.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormTest.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_КВОРК\C#\C# - обучение английский в виде игры (dlgh12)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormFuture.resources
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPast.resources
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPresent.resources
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormTest.resources
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Александр\Downloads\WindowsFormsApplication1 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
